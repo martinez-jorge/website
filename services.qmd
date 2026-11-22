@@ -1,0 +1,100 @@
+---
+title: "Our Services"
+format: html
+---
+
+![](assets/illustrations/services-graphics.svg){align="center" fig-alt="Three individuals explore data" fig-align="center" width="400"}
+
+## Research
+
+We design rigorous, transparent research using open-source tools and reproducible methods, so your findings hold up and your stakeholders can trust them. We employ both quantitative and qualitative methods in the social sciences - from predictive analytics to focus groups and interviews.
+
+## Data Strategy
+
+We help leaders turn scattered data into a clear roadmap: what to measure, how to collect it, and how to use it to guide decisions and investment. We enable organizational digital transformation through the entire enterprise application architecture - from core system, to data warehousing, to stakeholder-facing data products.
+
+## Visualization & Storytelling
+
+We transform complex data into clear, compelling visual narratives that make your work understandable and actionable for any audience. We believe data have a story to tell and we make sure the value of the data is not lost in statistical jargon.
+
+## Program Evaluation
+
+We evaluate programs with rigor and care, measuring what matters so you can demonstrate impact, learn quickly, and improve over time. We ground our work in theory and harness the latest science to make sure your theory of change is achievable.
+
+## Data Engineering
+
+We build the pipelines and infrastructure behind good analysis, turning messy, siloed data into reliable, well-organized systems your team can count on. Sourcing data from different systems and different files can be a large task we can help automate.
+
+## Data Governance
+
+We establish practical standards for data quality, privacy, and ethics, so your data is handled responsibly and trusted across your organization. Building a positive data culture at your organization strengthens the foundations of your outcomes.
+
+## Consulting
+
+We act as your on-demand data partner, bringing flexible, senior-level expertise to whatever challenge is in front of you — from a single question to a full transformation. Whether you need a thought partner for a board presentation or an embedded analyst for a multi-year initiative, we meet you where you are.
+
+# Areas of Expertise {style="text-align: center"}
+
+:::::::::::::::: {#expertise .features-section}
+::::::::::::::: features-grid
+:::: feature-card
+![](assets/icons/expertise-legal-system.svg){.card-icon}
+
+::: feature-title
+Criminal Legal System
+:::
+
+We bring deep expertise in criminology, deviance, and social control to research on courts, policing, incarceration, and reentry. Our work helps agencies and advocates understand system behavior, measure outcomes, and inform policies that promote fairness and public safety.
+::::
+
+:::: feature-card
+![](assets/icons/expertise-k-12.svg){.card-icon}
+
+::: feature-title
+K-12 Education
+:::
+
+We understand the data landscape of schools and districts, from student achievement and attendance to discipline disparities and family engagement. Our analyses help educators and administrators identify what's working, for whom, and where to focus resources.
+::::
+
+:::: feature-card
+![](assets/icons/expertise-higher-ed.svg){.card-icon}
+
+::: feature-title
+Higher Education
+:::
+
+We study enrollment, persistence, completion, and student success across institutional contexts. Our research helps colleges and universities make evidence-based decisions about access, equity, and program effectiveness - not just national rankings.
+::::
+
+:::: feature-card
+![](assets/icons/expertise-demographics.svg){.card-icon}
+
+::: feature-title
+Demographic Analysis
+:::
+
+We are experts in census data, population estimates, and the methods for understanding who lives in a place and how communities are changing. We translate demographic shifts into planning-ready insight for organizations and agencies.
+::::
+
+:::: feature-card
+![](assets/icons/expertise-survey.svg){.card-icon}
+
+::: feature-title
+Survey Methods
+:::
+
+We design surveys that measure what they intend to measure, applying best practices in sampling, question construction, and instrument validation. From design to analysis, we ensure your data is credible and defensible.
+::::
+
+:::: feature-card
+![](assets/icons/expertise-data-viz.svg){.card-icon}
+
+::: feature-title
+Data Visualization
+:::
+
+We are steeped in the theory and craft of visual communication, grounded in research on perception and decision-making. We design visuals that are not only beautiful, but honest, accessible, and effective at driving understanding.
+::::
+:::::::::::::::
+::::::::::::::::

@@ -1,0 +1,130 @@
+/* css styles */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Apply fonts to body text */
+body {
+  font-family: 'Raleway', serif;
+  font-size: 18px;
+}
+
+/* Apply fonts to headers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Ensure navigation inherits appropriate fonts */
+.navbar {
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Hero Section Layout */
+.hero {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  max-width: 1200px; /* Increased slightly to accommodate side-by-side layout */
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap; /* Ensures stacking on mobile */
+}
+
+.hero-text {
+  flex: 1 1 48%; /* Takes up half the width */
+  min-width: 300px;
+  font-size: 30px;
+}
+
+.hero-visual {
+  flex: 1 1 48%; /* Takes up the other half */
+  min-width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Tighten spacing inside the hero text column */
+.hero-text h1 {
+  margin-bottom: 0.25rem;      /* default is closer to 1.5rem+ */
+  line-height: 1.1;            /* tighter leading for the big headline */
+}
+
+.hero-text p {
+  margin-bottom: 1.25rem;      /* keeps breathing room before the button */
+  line-height: 1.5;
+}
+
+/* Cards Section Layout */
+.features-section {
+  max-width: 1200px;
+  margin: 4rem auto;
+  padding: 0 1rem;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.feature-card {
+  background: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+  padding: 2rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+  border-color: #6d4aff; /* Your brand color accent on hover */
+}
+
+.card-icon {
+  font-size: 2rem;
+  margin-bottom: 0rem;
+  color: #6d4aff; 
+}
+
+/* If using SVGs or images for icons, ensure they fit */
+.card-icon {
+  width: 140px;
+  height: 140px;
+}
+
+.feature-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+  color: #1a1a1a;
+}
+
+.feature-body {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555555;
+  margin: 0;
+}
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+  .hero {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    flex-direction: column-reverse; /* Puts visual above text on mobile if desired, or remove to keep text first */
+    gap: 2rem;
+  }
+  
+  .hero-text, .hero-visual {
+    flex: 1 1 100%;
+  }
+}

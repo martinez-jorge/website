@@ -1,0 +1,118 @@
+---
+title: ""
+filters:
+  - easycarousel
+  - quarto
+---
+
+::::: hero
+::: hero-text
+# Better decisions begin <br> with better evidence
+
+We build data strategies, measure impact, and turn complex information into clear stories for organizations doing work that matters.
+
+[Explore Our Work](#services){.btn .btn-primary}
+:::
+
+::: hero-visual
+![](assets/illustrations/landing-graphic.svg){width="600"}
+:::
+:::::
+
+# Here is how we do it {style="text-align: center"}
+
+:::::::::::::::: {#services .features-section}
+::::::::::::::: features-grid
+:::: feature-card
+![](assets/icons/services-research.svg){.card-icon}
+
+::: feature-title
+Research
+:::
+
+Building knowledge and testing theories. We design studies that uncover insights you need to make informed decisions.
+::::
+
+:::: feature-card
+![](assets/icons/services-data-strategy.svg){.card-icon}
+
+::: feature-title
+Data Strategy
+:::
+
+Aligning your data infrastructure with your organizational needs. We build frameworks that turn raw information into strategic assets.
+::::
+
+:::: feature-card
+![](assets/icons/services-viz.svg){.card-icon}
+
+::: feature-title
+Visualization & Storytelling
+:::
+
+Transforming complex data sets into intuitive, accessible visuals. We help you communicate findings to stakeholders with clarity and impact.
+::::
+
+:::: feature-card
+![](assets/icons/services-evaluation.svg){.card-icon}
+
+::: feature-title
+Program Evaluation
+:::
+
+Measuring effectiveness and impact. We help you demonstrate outcomes to stakeholders with evidence you can trust.
+::::
+
+:::: feature-card
+![](assets/icons/services-engineer.svg){.card-icon}
+
+::: feature-title
+Data Engineering
+:::
+
+Wrangling data from many sources into one repository for actionable analysis.
+::::
+
+:::: feature-card
+![](assets/icons/services-governance.svg){.card-icon}
+
+::: feature-title
+Data Governance
+:::
+
+Establishing policies, standards, and stewardship so your data is accurate, secure, and consistently defined. We help you build trust in your data infrastructure.
+::::
+:::::::::::::::
+::::::::::::::::
+
+# Our clients {style="text-align: center"}
+
+# Client Testimonials {style="text-align: center"}
+
+<!-- > Evaluating humanities programs is challenging enough. At the intersection of the humanities, incarceration, and reentry, the challenge becomes even more complex. Emily Knaphus-Soran brought intellectual rigor, methodological sophistication, and a keen appreciation for what conventional measures can miss. They reshaped how we think about evaluation and gave us tools to strengthen our practice." -->
+
+<!-- — Joe Murphy, Director of Strategic Partnerships, Humanities New York -->
+
+<!-- > "It has been an incredible journey working with Emily and Jorge.  Not only do they provide high-level evaluations and partnership, they bring heart and humanity to their work.  It has been an honor to work closely with them to build stronger, more resilient community-based programs that are set up for growth and community impact." -->
+
+<!-- — Malora Christensen, Response Systems Manager, Whatcom County Health and Community Services -->
+
+:::: {.carousel}
+
+::: {}
+
+> "It has been an incredible journey working with Emily and Jorge.  Not only do they provide high-level evaluations and partnership, they bring heart and humanity to their work.  It has been an honor to work closely with them to build stronger, more resilient community-based programs that are set up for growth and community impact."
+
+— Malora Christensen, Response Systems Manager, Whatcom County Health and Community Services
+
+:::
+
+::: {}
+
+> "Evaluating humanities programs is challenging enough. At the intersection of the humanities, incarceration, and reentry, the challenge becomes even more complex. Emily Knaphus-Soran brought intellectual rigor, methodological sophistication, and a keen appreciation for what conventional measures can miss. They reshaped how we think about evaluation and gave us tools to strengthen our practice."
+
+— Joe Murphy, Director of Strategic Partnerships, Humanities New York
+
+:::
+
+::::

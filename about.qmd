@@ -1,0 +1,59 @@
+---
+title: "About Us"
+---
+
+## Mission
+
+Our mission is to help communities by turning complex data into clear stories and actionable insights. We make good data practice accessible to any organization doing work that maters - whether that's a nonprofit serving its neighbors, a government agency stewarding public resources, or a company investing in its mission.
+
+## Vision
+
+We envision a society where data and research inform policy, guide investment, and uplift the voices of diverse communities.
+
+## Values
+
+- **Flourishing communities:** Building evidence that helps people and places thrive.
+- **Integrity:** Honesty, transparency, and reproducibility through open science and tools.
+- **Equity and inclusion:** Designing for justice and accessibility.
+- **Continuous learning:** Curiosity as a civic virtue.
+- **Collaboration:** Building knowledge together.
+
+# Who we are
+
+## Emily Knaphus-Soran, PhD
+
+:::::: columns
+::: {.column width="30%"}
+![Emily Knaphus-Soran, Principal & Co-Founder](assets/images/team/eks.jpg)
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="65%"}
+Emily Knaphus-Soran is a sociologist by training who was drawn to evaluation through a desire to support on-the-ground efforts that address the social problems illuminated by sociological research. She has been conducting equity-focused research and evaluation for over a decade, beginning with graduate studies centered on the persistence of mass incarceration and its intergenerational social-psychological impacts. Her graduate training equipped her with the tools to conduct rigorous quantitative and qualitative applied research and evaluation. Emily earned her PhD in sociology from the University of Washington in 2017, with a minor in social statistics and a graduate certificate in socio-legal studies.
+
+She has worked as an evaluator for more than ten years, both in her role at the [University of Washington Center for Evaluation & Research for STEM Equity](https://depts.washington.edu/cerse/) (UW CERSE) and as an independent consultant. She has managed the evaluation of several NSF-funded programs, including efforts both within single institutions and across multiple institutions. She has also conducted evaluations of programs designed as alternatives to arrest and incarceration and contributed to evaluation-capacity building with a ten-site cohort building alternatives to criminal-legal responses to behaviors stemming from unmet behavioral health needs.
+
+To learn more about her professional experience, see Emily's [curriculum vitae](https://www.eksevaluation.com/_files/ugd/7e51d5_139d1fa569374ccabcf1f185a7598d9f.pdf).
+:::
+::::::
+
+## Jorge Martinez
+
+:::::: columns
+::: {.column width="30%"}
+![Jorge Martinez, Principal & Co-Founder](assets/images/team/jxm.jpeg)
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="65%"}
+Jorge Martinez is a researcher, data strategist, and co-founder of Common Measure. Trained as a sociologist with a focus on deviance and social control, Jorge spent nearly a decade as an institutional researcher in higher education at the University of Houston where he turned enrollment trends, survey research, and predictive modeling into actionable insight, including work on [retention analytics](https://jxmartinez.com/project/retention-analysis/) and [university benchmarking](https://jxmartinez.com/talk/identifying-institutional-peers/). He later brought that analytical rigor to the K-12 sector, applying data science to support one of the nation's largest school districts. Today, as Director of Data Strategy at [BakerRipley](https://bakerripley.org), he leads a team of researchers and data scientists supporting socioeconomic mobility work across the Houston region—an experience that keeps him steeped in the real challenges nonprofits face, from measuring program outcomes to communicating results to funders and boards. He brings that practitioner's perspective to every Common Measure engagement, pairing rigorous research design and statistical analysis with data visualization that makes findings impossible to ignore. Jorge holds an MA in Sociology from the University of Washington and completed doctoral coursework in sociology there (ABD). Outside of work, you'll find him cycling around Houston, exploring museums, learning new R packages, or spending time with his pug.
+
+To learn more about his professional experience, see Jorge's [curriculum vitae](https://www.eksevaluation.com/_files/ugd/7e51d5_139d1fa569374ccabcf1f185a7598d9f.pdf) or [visit his website](https://jxmartinez.com) to see some of his work.
+:::
+::::::
