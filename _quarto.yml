@@ -19,14 +19,15 @@ website:
     background: dark
     left: |
       ![](assets/logos/logo.png){height=50px}
-    center: 
+    right: 
       © 2026 Common Measure, LLC
-    right:
+    center:
       - href: index.qmd
         text: Home
       - href: services.qmd
         text: Services
       - about.qmd
+  favicon: assets/logos/logo.svg
 
 format:
   html:

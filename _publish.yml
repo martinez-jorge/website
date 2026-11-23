@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0f2ebbb3-70f2-4cc4-9906-7ab0f4ac32c1
+      url: https://common-measure.co

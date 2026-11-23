@@ -7,7 +7,7 @@ filters:
 
 ::::: hero
 ::: hero-text
-# Better decisions begin <br> with better evidence
+# Better decisions begin with better evidence
 
 We build data strategies, measure impact, and turn complex information into clear stories for organizations doing work that matters.
 
@@ -87,32 +87,40 @@ Establishing policies, standards, and stewardship so your data is accurate, secu
 
 # Our clients {style="text-align: center"}
 
+:::: {.grid}
+::: {.g-col-4 .text-center}
+![](assets/logos/humanities-ny.svg){.img-fluid width="300"}
+:::
+
+::: {.g-col-4 .text-center}
+![](assets/logos/lead.svg){.img-fluid width="300"}
+:::
+
+::: {.g-col-4 .text-center}
+![](assets/logos/whatcom-hcs.svg){.img-fluid width="300"}
+:::
+::::
+
 # Client Testimonials {style="text-align: center"}
 
 <!-- > Evaluating humanities programs is challenging enough. At the intersection of the humanities, incarceration, and reentry, the challenge becomes even more complex. Emily Knaphus-Soran brought intellectual rigor, methodological sophistication, and a keen appreciation for what conventional measures can miss. They reshaped how we think about evaluation and gave us tools to strengthen our practice." -->
 
 <!-- — Joe Murphy, Director of Strategic Partnerships, Humanities New York -->
 
-<!-- > "It has been an incredible journey working with Emily and Jorge.  Not only do they provide high-level evaluations and partnership, they bring heart and humanity to their work.  It has been an honor to work closely with them to build stronger, more resilient community-based programs that are set up for growth and community impact." -->
+<!-- > "It has been an incredible journey working with Emily and Jorge. Not only do they provide high-level evaluations and partnership, they bring heart and humanity to their work. It has been an honor to work closely with them to build stronger, more resilient community-based programs that are set up for growth and community impact." -->
 
 <!-- — Malora Christensen, Response Systems Manager, Whatcom County Health and Community Services -->
 
-:::: {.carousel}
-
+::::: carousel
 ::: {}
-
-> "It has been an incredible journey working with Emily and Jorge.  Not only do they provide high-level evaluations and partnership, they bring heart and humanity to their work.  It has been an honor to work closely with them to build stronger, more resilient community-based programs that are set up for growth and community impact."
+> "It has been an incredible journey working with Emily and Jorge. Not only do they provide high-level evaluations and partnership, they bring heart and humanity to their work. It has been an honor to work closely with them to build stronger, more resilient community-based programs that are set up for growth and community impact."
 
 — Malora Christensen, Response Systems Manager, Whatcom County Health and Community Services
-
 :::
 
 ::: {}
-
 > "Evaluating humanities programs is challenging enough. At the intersection of the humanities, incarceration, and reentry, the challenge becomes even more complex. Emily Knaphus-Soran brought intellectual rigor, methodological sophistication, and a keen appreciation for what conventional measures can miss. They reshaped how we think about evaluation and gave us tools to strengthen our practice."
 
 — Joe Murphy, Director of Strategic Partnerships, Humanities New York
-
 :::
-
-::::
+:::::
